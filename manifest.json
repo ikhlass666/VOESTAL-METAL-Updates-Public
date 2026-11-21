@@ -1,0 +1,6 @@
+{
+  "version": "0.8.10",
+  "installer_url": "https://github.com/ikhlass666/VOESTAL-METAL-Updates-Public/releases/download/v0.8.10/VOESTAL_METAL_UPDATE_0.8.10.exe",
+  "sha256": "929DCC573D63D7B95A1DE2DA4571B1D795E098800651AB205DF2829F620D206E",
+  "release_notes": "Initial integrated update system and cheque management improvements."
+}
