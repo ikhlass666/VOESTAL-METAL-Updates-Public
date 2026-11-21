@@ -1,6 +1,6 @@
 {
-  "version": "0.8.11",
-  "installer_url": "https://github.com/ikhlass666/VOESTAL-METAL-Updates-Public/releases/download/v0.8.11/VOESTAL_METAL_UPDATE_0.8.11.exe",
-  "sha256": "DF9B05230549BCED7B0311AB1511754C508B0FD0EBD4E0D78FE09790FE3D1665",
-  "release_notes": "Amélioration du système de mise à jour et corrections diverses."
+  "version": "0.8.12",
+  "installer_url": "https://github.com/ikhlass666/VOESTAL-METAL-Updates-Public/releases/download/v0.8.12/VOESTAL_METAL_UPDATE_0.8.12.exe",
+  "sha256": "7A6CB6EAE107E4E2059301118B654D46EB9FC576E124C4ECE35EA232AE624294",
+  "release_notes": "Ajout du mode de paiement LCN, modification des identifiants du profil et améliorations diverses."
 }
